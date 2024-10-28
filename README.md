@@ -12,7 +12,7 @@ To get a custom elytra with your design, use the following command:
 
 /give @s elytra[minecraft:trim={material:"minecraft:bedrock",pattern:"minecraft:elytra1"}]
 
-change the "elytra1" to "elytra2" or higher (or whatever you named the trims).
- ## Extra info.
+Change 'elytra1' to 'elytra2' or higher (or whatever you named the trims).
+## Extra info.
 
 I've added 15 on this template, feel free to add (or remove) more if needed.
