@@ -14,4 +14,4 @@ To equip a custom elytra with your design, use the following command:
 
 ## Extra info.
 
-I've added 15 on this template, feel free to add more if needed (or remove).
+I've added 15 on this template, feel free to add (or remove) more if needed.
