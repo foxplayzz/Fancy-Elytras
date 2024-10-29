@@ -16,3 +16,8 @@ Change 'elytra1' to 'elytra2' or higher (or whatever you named the trims).
 ## Extra info.
 
 I've added 15 on this template, feel free to add (or remove) more if needed.
+
+## Known Limitations
+
+1. Ensure your texture fully covers the elytra texture; incomplete coverage may cause the normal elytra texture to stick out.
+2. Assign each new trim to a unique item. Assigning the same item to multiple trims can result in error.
