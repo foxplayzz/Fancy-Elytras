@@ -10,7 +10,7 @@ To apply a custom elytra texture, replace the default texture file with your own
 
 To get a custom elytra with your design, use the following command:
 
-/give @s elytra[minecraft:trim={material:"minecraft:bedrock",pattern:"minecraft:elytra1"}]
+/give @s elytra[trim={pattern:elytra1,material:bedrock,show_in_tooltip:false}]
 
 Change 'elytra1' to 'elytra2' or higher (or whatever you named the trims).
 ## Extra info.
